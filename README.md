@@ -2,4 +2,4 @@
 
 ## How to use
 
-python NormalPortScanner.py <URL or IP>
+python NormalPortScanner.py "URL or IP"
